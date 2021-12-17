@@ -1,11 +1,11 @@
 import React from 'react'
-import Herosection from './components/Herosection/hero'
-import Features from './components/Features/features'
-import Restaurants from './components/Restaurants/restaurants'
-import Footer from './components/Footer/footer'
+import Herosection from './Components/Herosection/hero'
+import Features from './Components/Features/features'
+import Restaurants from './Components/Restaurants/restaurants'
+import Footer from './Components/Footer/footer'
 
 import './App.css';
-import './components/FontAwesome'
+import './Components/FontAwesome'
 
 
 function App() {

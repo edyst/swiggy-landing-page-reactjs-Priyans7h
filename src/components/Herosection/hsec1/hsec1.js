@@ -8,11 +8,11 @@ const hsec1 = () => {
     return (
         <div className="hsec1">
             <img className="logo" src={Logo} alt="swiggylogo" />
-            <div className="buttons-sect">
-                <Button classes={'login-btn'} name={'Login'} />
-                <Button classes={'sign-up-btn'} name={'Sign up'} />
+            <div className="button-sect">
+                <Button  classes={'login-btn'} name={'Login'} />
+                <Button  classes={'sign-up-btn'} name={'Sign up'} />
             </div>
         </div>
     )
-}
+    }    
 export default hsec1

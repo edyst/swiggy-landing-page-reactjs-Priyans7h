@@ -17,7 +17,7 @@ const fsec2 = () => {
                 litem5={'Agartala'}
                 litem6={'Agra'}
                 litem7={'Ahmedabad'}
-                litem8={'"n" no of cities list'} />
+                litem8={'Aligarh'} />
 
 
             <List
@@ -29,7 +29,7 @@ const fsec2 = () => {
                 litem5={'Bahraich'}
                 litem6={'Bajpe'}
                 litem7={'Balaghat'}
-                litem8={'"n" no of cities list'} />
+                litem8={'Bateswar'} />
 
 
             <List
@@ -41,7 +41,7 @@ const fsec2 = () => {
                 litem5={'Delhi'}
                 litem6={'Deoghar'}
                 litem7={'Dewas'}
-                litem8={'"n" no of cities list'} />
+                litem8={'Dabok'} />
 
 
             <List
@@ -53,7 +53,7 @@ const fsec2 = () => {
                 litem5={'Kalaburagi'}
                 litem6={'Kalady'}
                 litem7={'Kamareddy'}
-                litem8={'"n" no of cities list'} />
+                litem8={'Kanpur'} />
 
         </div>
     )
