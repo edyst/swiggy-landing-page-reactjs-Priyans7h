@@ -1,6 +1,7 @@
 {
   "name": "edyst-swiggy",
   "version": "0.1.0",
+  "homepage":"'",
   "private": true,
   "homepage": ".",
   "dependencies": {
